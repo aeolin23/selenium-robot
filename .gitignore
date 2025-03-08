@@ -1,6 +1,8 @@
 __pycache__
+virtualenv
 interactive_console_output.xml
 log.html
 output.xml
 report.html
+token.json
 *.png
